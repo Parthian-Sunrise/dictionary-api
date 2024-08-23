@@ -1,6 +1,4 @@
 numpy
 pandas
-os
 openai
-requests
-json
+nodejs
