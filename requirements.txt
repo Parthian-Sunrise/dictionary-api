@@ -2,3 +2,5 @@ numpy
 pandas
 openai
 nodejs
+jupyterlab
+jupyterlab-git
