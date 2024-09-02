@@ -1,6 +1,10 @@
+kivy
+pygame
 numpy
 pandas
 openai
 nodejs
 jupyterlab
 jupyterlab-git
+pyinstaller
+PyQt5
