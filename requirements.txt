@@ -8,3 +8,4 @@ jupyterlab
 jupyterlab-git
 pyinstaller
 PyQt5
+janome
